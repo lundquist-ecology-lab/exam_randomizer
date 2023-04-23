@@ -6,9 +6,9 @@ their answers using Python.
 
 ## Included files
 
-1. [shuffle.py](\shuffle.py): A script used to take a `.txt` file with questions and answers, randomize questions and answers within  questions, and produce a `.docx` file.
-2. [bubble.py](\bubble.py): A script to produce a bubble sheet with fill in spaces for each answer to each question
-3. [example](\example): A folder with an example input and output exam
+1. [shuffle.py](shuffle.py): A script used to take a `.txt` file with questions and answers, randomize questions and answers within  questions, and produce a `.docx` file.
+2. [bubble.py](bubble.py): A script to produce a bubble sheet with fill in spaces for each answer to each question
+3. [example](example): A folder with an example input and output exam
 
 ## How to use `shuffle.py`
 
